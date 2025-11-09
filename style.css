@@ -67,6 +67,7 @@ a {
     background-color: hsl(0, 0%, 20%);
     color: white;
     font-weight: bolder;
+    font-size: 14px;
 }
 
 a:hover {
@@ -86,4 +87,5 @@ footer {
 .attribution a {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
+  background-color: hsl(0, 0%, 8%);
 }
